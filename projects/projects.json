@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Tasbeeh Counter",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML",
+    "image": "a1",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/khaleeq-ur-rahman-799bb72a9/",
+      "code": "https://github.com/khaleeq461"
+    }
+
+    
+  },
+  {
+    "name": "Epense Tracker",
+    "desc": "All in one expense tracker . Built using Java, XML and Firebase.",
+    "image": "a2",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/khaleeq-ur-rahman-799bb72a9/",
+      "code": "https://github.com/khaleeq461"
+    }
+  },
+  {
+    "name": "VegTummy Android",
+    "desc": "Native android app built using Java, XML. Provides different veg recipes.",
+    "image": "a3",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/khaleeq-ur-rahman-799bb72a9/",
+      "code": "https://github.com/khaleeq461"
+    }
+  },
+ 
+ 
+  
+  {
+    "name": "Wine Dataset",
+    "desc": "Wine Dataset Analysis Using Python and Machine Learning.",
+    "image": "d1",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "College Management System",
+    "desc": "College Management System built using HTML, CSS, JavaScript, PHP and MySQL.",
+    "image": "o1",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Emplyee management system",
+    "desc": "Employee Management System built using HTML, CSS, JavaScript, PHP and MySQL.",
+    "image": "o2",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Mp3 Player",
+    "desc": "Mp3 Player built using HTML, CSS, JavaScript and python.",
+    "image": "o3",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+ 
+ 
+  {
+    "name": "Titok dataset",
+    "desc": "Dataset of titok videos using python.Applied EDA and Machine Learning.",
+    "image": "d2",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "Login System",
+    "desc": "It's a login system made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "w5",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
+    }
+  },
+  {
+    "name": "Waze Dataset",
+    "desc": "Dataset of waze videos using python.Applied EDA and Machine Learning.",
+    "image": "d3",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  
+  
+  {
+    "name": "Another Portfolio",
+    "desc": "Basic Portfolio webpage built using HTML, CSS and JavaScript. It contains some projects and info about me.",
+    "image": "w4",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Laundary Management System",
+    "desc": "It manages the laundry schedule. It provides the feature to add, delete and update the schedule.",
+    "image": "w2",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "portfolio",
+    "desc": "i have made a portfolio website.It includes some projects and info about me.",
+    "image": "w3",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Faculty Feast Tracker",
+    "desc": "It manages the faculty feast schedule. It provides the feature to add, delete and update the schedule.",
+    "image": "w1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
